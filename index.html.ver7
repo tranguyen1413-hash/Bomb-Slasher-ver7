@@ -15,9 +15,9 @@
 
         const firebaseConfig = {
             apiKey: "AIzaSyCwKx_btF8EvR5Xp0sM2pi_VT6wWQdF4ec",
-            authDomain: "chem-bom-game.firebaseapp.com",
-            projectId: "chem-bom-game",
-            storageBucket: "chem-bom-game.firebasestorage.app",
+            authDomain: "chem-bomb-game.firebaseapp.com",
+            projectId: "chem-bomb-game",
+            storageBucket: "chem-bomb-game.firebasestorage.app",
             messagingSenderId: "521625372789",
             appId: "1:521625372789:web:d583224c097c779cab103c"
         };
